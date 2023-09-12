@@ -155,6 +155,7 @@
   ('calendar',
    'C:\\Users\\eduardo.luis\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\calendar.py',
    'PYMODULE'),
+  ('config', 'C:\\sys\\DeployAutomatico\\config.py', 'PYMODULE'),
   ('configparser',
    'C:\\Users\\eduardo.luis\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\configparser.py',
    'PYMODULE'),

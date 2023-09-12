@@ -1,3 +1,4 @@
+import config
 import os 
 import PySimpleGUI as sg
 import py7zr as zip
